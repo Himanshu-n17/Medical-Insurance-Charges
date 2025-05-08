@@ -1,6 +1,3 @@
-# 🧠 Regression Analysis with Scikit-Learn
-
-This project demonstrates how to perform **exploratory data analysis (EDA)** and apply **linear regression techniques** using **Scikit-Learn** on a medical insurance dataset (`insurance.csv`). The goal is to predict annual medical charges based on features like age, BMI, smoking status, and more.
 
 ---
 
